@@ -1,1 +1,2 @@
-These are just some useful scripts for hacking WEP and WPA
+# wifi_hacking
+Repository with Wi-Fi hacking tools and scripts
