@@ -1,0 +1,7 @@
+
+BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
+10:6F:3F:E8:73:50, 2015-10-13 00:42:57, 2015-10-13 00:49:08, 11,  54, WEP, WEP, OPN, -46,     3601,    17027,   0.  0.  0.  0,  13, Howdy Do Dat?, 
+
+Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
+04:0C:CE:DB:3E:94, 2015-10-13 00:43:25, 2015-10-13 00:49:07,   0,    44547, 10:6F:3F:E8:73:50,
+

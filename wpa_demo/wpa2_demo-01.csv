@@ -1,0 +1,7 @@
+
+BSSID, First time seen, Last time seen, channel, Speed, Privacy, Cipher, Authentication, Power, # beacons, # IV, LAN IP, ID-length, ESSID, Key
+22:10:7A:82:39:5F, 2015-10-13 02:01:01, 2015-10-13 02:02:00,  6,  54, WPA2, CCMP,PSK, -75,      542,      603,   0.  0.  0.  0,  14, MOTOROLA_GUEST, 
+
+Station MAC, First time seen, Last time seen, Power, # packets, BSSID, Probed ESSIDs
+04:0C:CE:DB:3E:94, 2015-10-13 02:01:13, 2015-10-13 02:01:59, -45,      481, 22:10:7A:82:39:5F,
+
